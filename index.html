@@ -327,10 +327,10 @@ pagination:
 <h2 class="w3-center">Slideshows</h2>
 <div class="w3-content w3-display-container" style="max-width:800px">
 
-<img class="mySlides w3-animate-opacity" src="/w3images/fjords.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/lights.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/mountains.jpg" style="width:100%">
-<img class="mySlides w3-animate-opacity" src="/w3images/forest.jpg" style="width:100%">
+<img class="mySlides w3-animate-opacity" src="https://www.w3schools.com/w3images/fjords.jpg" style="width:100%">
+<img class="mySlides w3-animate-opacity" src="https://www.w3schools.com/w3images/lights.jpg" style="width:100%">
+<img class="mySlides w3-animate-opacity" src="https://www.w3schools.com/w3images/mountains.jpg" style="width:100%">
+<img class="mySlides w3-animate-opacity" src="https://www.w3schools.com/w3images/forest.jpg" style="width:100%">
 
 <a class="w3-button w3-theme w3-display-left" onclick="plusDivs(-1)">❮</a>
 <a class="w3-button w3-theme w3-display-right" onclick="plusDivs(+1)">❯</a>
@@ -373,7 +373,7 @@ pagination:
 <div id="Demo3" class="w3-hide w3-black">
   <div class="w3-container">
     <p>Accordion with Images:</p>
-    <img src="/w3images/fjords.jpg" style="width:30%;" class="w3-animate-zoom">
+    <img src="https://www.w3schools.com/w3images/fjords.jpg" style="width:30%;" class="w3-animate-zoom">
     <p>Trolltunga, Norway</p>
   </div>
 </div>
@@ -460,7 +460,6 @@ pagination:
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
