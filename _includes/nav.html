@@ -4,7 +4,7 @@
       <a href="{{ site.url }}" class="w3-bar-item w3-button w3-padding-large">HOME</a>
 
       {% for link in site.data.navigation.links %}
-        <a href="{{ site.url }}{{ link.link }}" class="w3-bar-item w3-button w3-padding-large w3-hide-small" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+        <a href="{{ site.baseurl }}{{ link.link }}" class="w3-bar-item w3-button w3-padding-large w3-hide-small" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
       {% endfor %}
 
       <a href="javascript:void(0)" class="w3-padding-large w3-hide-small w3-right w3-hover-white"><i class="fa fa-search"></i></a>
@@ -14,7 +14,7 @@
 
   <div id="navDemo" class="w3-bar-block w3-theme-dark w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
     {% for link in site.data.navigation.links %}
-      <a href="{{ site.url }}{{ link.link }}" class="w3-bar-item w3-button w3-padding-large" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+      <a href="{{ site.baseurl }}{{ link.link }}" class="w3-bar-item w3-button w3-padding-large" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
     {% endfor %}
         <a href="javascript:void(0)" class="w3-bar-item w3-button w3-padding-large"><i class="fa fa-search"></i></a>
   </div>
