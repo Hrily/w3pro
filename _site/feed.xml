@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="it_IT"><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="it_IT" /><updated>2018-02-25T22:27:09+01:00</updated><id>http://localhost:4000/</id><title type="html">w3pro</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><entry><title type="html">POST 5</title><link href="http://localhost:4000/2018/02/post5.html" rel="alternate" type="text/html" title="POST 5" /><published>2018-02-25T14:57:01+01:00</published><updated>2018-02-25T14:57:01+01:00</updated><id>http://localhost:4000/2018/02/post5</id><content type="html" xml:base="http://localhost:4000/2018/02/post5.html">&lt;h1&gt;POST 5&lt;/h1&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><summary type="html">POST 5</summary></entry><entry><title type="html">POST 4</title><link href="http://localhost:4000/2018/02/post4.html" rel="alternate" type="text/html" title="POST 4" /><published>2018-02-25T14:54:06+01:00</published><updated>2018-02-25T14:54:06+01:00</updated><id>http://localhost:4000/2018/02/post4</id><content type="html" xml:base="http://localhost:4000/2018/02/post4.html">&lt;h1&gt;POST 4&lt;/h1&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><summary type="html">POST 4</summary></entry><entry><title type="html">POST 3</title><link href="http://localhost:4000/2018/02/post3.html" rel="alternate" type="text/html" title="POST 3" /><published>2018-02-25T14:46:47+01:00</published><updated>2018-02-25T14:46:47+01:00</updated><id>http://localhost:4000/2018/02/post3</id><content type="html" xml:base="http://localhost:4000/2018/02/post3.html">&lt;h1&gt;POST 3&lt;/h1&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><summary type="html">POST 3</summary></entry><entry><title type="html">POST 2</title><link href="http://localhost:4000/2018/02/post2.html" rel="alternate" type="text/html" title="POST 2" /><published>2018-02-25T14:45:42+01:00</published><updated>2018-02-25T14:45:42+01:00</updated><id>http://localhost:4000/2018/02/post2</id><content type="html" xml:base="http://localhost:4000/2018/02/post2.html">&lt;h1 id=&quot;post-1&quot;&gt;POST 1&lt;/h1&gt;
+
+&lt;h3 id=&quot;posts-subtitle-h3&quot;&gt;Post’s Subtitle h3&lt;/h3&gt;
+
+&lt;h2 id=&quot;header-h2&quot;&gt;Header h2&lt;/h2&gt;
+
+&lt;p&gt;First &lt;strong&gt;paragraph&lt;/strong&gt; &lt;em&gt;uuuhh yeah!&lt;/em&gt; Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione. È sopravvissuto non solo a più di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come Aldus PageMaker, che includeva versioni del Lorem Ipsum.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><summary type="html">my first post talks about ... and so on. A page's description is composed by one or two sentences: more than 100 and not more than 160 charaters.</summary></entry><entry><title type="html">Makdown: short explanation</title><link href="http://localhost:4000/2018/02/markdown-explanation.html" rel="alternate" type="text/html" title="Makdown: short explanation" /><published>2018-02-25T14:45:41+01:00</published><updated>2018-02-25T14:45:41+01:00</updated><id>http://localhost:4000/2018/02/markdown-explanation</id><content type="html" xml:base="http://localhost:4000/2018/02/markdown-explanation.html">&lt;h1 id=&quot;makdown-short-explanation&quot;&gt;Makdown: short explanation&lt;/h1&gt;
+
+&lt;p&gt;You can write regular &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;markdown&lt;/a&gt; here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to &lt;a href=&quot;http://markdowntutorial.com/&quot;&gt;take 5 minutes to learn how to write in markdown&lt;/a&gt; - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here is some bold text&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Here is some emphasized text&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;here-is-a-secondary-heading&quot;&gt;Here is a secondary heading&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-level-3-&quot;&gt;Heading level 3 …&lt;/h3&gt;
+&lt;h6 id=&quot;-smallest-heading-level-best-known-as-h6&quot;&gt;… Smallest Heading level, best known as: H6&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LIST
+    &lt;ul&gt;
+      &lt;li&gt;item 1
+        &lt;ul&gt;
+          &lt;li&gt;item 1 bis&lt;/li&gt;
+          &lt;li&gt;item 1 tris&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;item x-1&lt;/li&gt;
+      &lt;li&gt;item x&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s a useless table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Number&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Next number&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Previous number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Five&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Six&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Four&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ten&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Eleven&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Nine&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Seven&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Eight&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Six&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Two&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Three&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;One&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;How about a yummy crepe?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg&quot; alt=&quot;Crepe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a code chunk:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And here is the same code with syntax highlighting:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And here is the same code yet again but with line numbers:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil}</name></author><summary type="html">Makdown: short explanation</summary></entry></feed>

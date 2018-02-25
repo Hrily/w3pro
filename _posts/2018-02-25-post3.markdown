@@ -1,0 +1,6 @@
+---
+layout: post
+title: "POST 3"
+date: "2018-02-25 14:46:47 +0100"
+---
+  <h1>POST 3</h1>

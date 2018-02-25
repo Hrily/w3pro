@@ -1,0 +1,5 @@
+links: # add links to pages you want appear in the main navbar
+- name: About
+  link: /about/
+- name: Blog
+  link: /blog/
