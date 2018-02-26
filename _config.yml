@@ -3,9 +3,9 @@
 # You can create any custom variable and will be accessible via {{ site.myvariable }}.
 title: w3pro # Your site's title
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  W3PRO is a Jekyll Theme based on the lightweight CSS W3PRO.CSS framework (only 16k) and on the latest generation FONT-AWESOME SVG JS icon set. 
+  Start from a W3School template and create your fantastic home page in minutes with the help of examples and tutorials. 
+  It's all free and well organized.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://enricocaputo.github.io/w3pro/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key:
