@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: owner-name/repo-name # Path to your Github repository
+  repo: enricocaputo/w3pro # Path to your Github repository
 media_folder: "/assets/img/uploads" # Media files will be stored in the repo under images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
